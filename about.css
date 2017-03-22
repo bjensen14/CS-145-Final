@@ -1,0 +1,47 @@
+
+
+
+
+
+
+
+
+
+#hero{
+	height: 600px;
+	background-image: url("../images/barista.jpg");
+	background-size: 100% 100%;
+	/*position: relative;*/
+	
+
+}
+
+
+
+.quarter_hero{
+
+	width: 50%;
+	height: 260px;
+	float: right;
+
+}
+
+.quarter_hero h1{
+	font-family: 'Leckerli One', cursive;
+	margin-top: 35px;
+	margin-bottom: 0px;
+	margin-left: 10px;
+	padding: 0;
+
+}
+
+.quarter_hero p{
+	margin-top: 0px;
+	margin-left: 10px;
+	padding: 0;
+	font-weight: bold;
+	font-family: 'Open Sans', sans-serif;
+	line-height: 1.5;
+	
+
+}
